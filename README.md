@@ -16,23 +16,7 @@ License
 Installation
 To install and run the application locally:
 
-Clone the repository:
 
-sh
-Copy code
-git clone https://github.com/your-username/hello-world-app.git
-cd hello-world-app
-Install the dependencies:
-
-sh
-Copy code
-npm install
-Start the development server:
-
-sh
-Copy code
-npm start
-Open http://localhost:3000 to view the app in your browser.
 
 Usage
 The application displays a simple "Hello World" message along with various components that demonstrate different features of React:
